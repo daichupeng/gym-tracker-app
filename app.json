@@ -2,11 +2,13 @@
   "expo": {
     "name": "gym-tracker-app",
     "slug": "gym-tracker-app",
+    "owner": "daichupeng",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+    "jsEngine": "hermes",
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
